@@ -8,7 +8,7 @@
 
 <h2> About </h2>
   
-🎓 Sophomore at the Faculty of **Computer and Information Sciences** - **Ain Shams** University, **Cairo**.  </br>
+🎓 Sophomore at Faculty of **Computer and Information Sciences** - **Ain Shams** University, **Cairo**.  </br>
 
 🏡 Lives in Cairo, Egypt (🇪🇬).
 - Problem Solving Skills.
