@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, It's Jana !</h1>
-<h3 align="center">Computer Science Sophomore in Ain-Shams University</h3>
+<h3 align="center">Computer Science Sophomore at Ain-Shams University</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Janaabdelwahed&label=Profile%20views&color=0e75b6&style=flat" alt="Janaabdelwahed"/>
 </p>
@@ -8,7 +8,7 @@
 
 <h2> About </h2>
   
-🎓 Sophomore in the Faculty of **Computer and Information Sciences** - **Ain Shams** University, **Cairo**.  </br>
+🎓 Sophomore at the Faculty of **Computer and Information Sciences** - **Ain Shams** University, **Cairo**.  </br>
 
 🏡 Live in Cairo, Egypt (🇪🇬).
 - Problem Solving Skills.
