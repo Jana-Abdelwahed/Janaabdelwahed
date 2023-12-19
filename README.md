@@ -1,5 +1,5 @@
 ### Hi 👋, it's Jana!
-Sophomore at FCIS - ASU
+Computer Science Sophomore at Ain-Shams University
 <!--
 **Janaabdelwahed/Janaabdelwahed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
