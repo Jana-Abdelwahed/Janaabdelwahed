@@ -1,5 +1,4 @@
 <h1 align="center">Hey 👋, It's Jana !</h1>
-<h3 align="center">Programmer</h3>
 <h3 align="center">Computer Science Sophomore in Ain-Shams University</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Janaabdelwahed&label=Profile%20views&color=0e75b6&style=flat" alt="Janaabdelwahed"/>
