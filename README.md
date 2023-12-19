@@ -10,7 +10,7 @@
   
 🎓 Sophomore at the Faculty of **Computer and Information Sciences** - **Ain Shams** University, **Cairo**.  </br>
 
-🏡 Live in Cairo, Egypt (🇪🇬).
+🏡 Lives in Cairo, Egypt (🇪🇬).
 - Problem Solving Skills.
   | :-------------------------------------: |
   
