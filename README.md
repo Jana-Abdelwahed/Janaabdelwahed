@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Janaabdelwahed&label=Profile%20views&color=0e75b6&style=flat" alt="Janaabdelwahed"/>
 </p>
 
-| :-------------------------------------: |
+***
 
 <h2> About </h2>
   
