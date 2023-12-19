@@ -17,7 +17,7 @@
 <h2> Languages </h2>
 
 - Arabic -> Native
-- English -> Full Proficiencey
+- English -> Conversational
 
    <h2> Keep in Touch </h2>
  
