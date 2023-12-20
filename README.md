@@ -18,7 +18,7 @@
 - 🏡 Lives in Cairo, Egypt (🇪🇬).
 - Problem Solving Skills.
   
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Tech Stack </h3>
 
 
 - 💻 &nbsp; C++ |  Java  
@@ -26,7 +26,7 @@
 
 
   
-<h3>🚀 Languages and Tools </h3>
+<h3 align="left">🔦 Languages and Tools</h3>
 
 <p align="left"> 
    <a href="https://isocpp.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
