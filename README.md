@@ -1,4 +1,6 @@
-<h1 align="center">Hey 👋, It's Jana !</h1>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jana </h1>
 <h3 align="center">Computer Science Sophomore at Ain-Shams University</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Janaabdelwahed&label=Profile%20views&color=0e75b6&style=flat" alt="Janaabdelwahed"/>
@@ -23,6 +25,31 @@
 
 - Arabic -> Native
 - English -> Conversational
+
+  
+  ## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+
+  
+  ## 📊 My Github Stats
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Janaabdelwahed&show_icons=true&theme=vision-friendly-dark" alt="leandro's stats"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janaabdelwahed&layout=compact&theme=vision-friendly-dark" alt="leandro's most languages"/>
+</div>
+</div>
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/Janaabdelwahed/github-readme-activity-graph"><img alt="Janaabdelwahed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Janaabdelwahed&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
 
    <h2> Keep in Touch </h2>
  
