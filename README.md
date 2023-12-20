@@ -10,11 +10,11 @@
 
 ***
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 👩🏻‍💻 About Me </h3>
   
-- 🧑‍🎓 I’m studying Computer Science at Ain Shams University, **Cairo**.  </br>
+- 👩🏻‍🎓 I’m studying Computer Science at Ain Shams University, **Cairo**.  </br>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- ✍️ &nbsp; Watching Anime
+- ✍🏻 &nbsp; Watching Anime
 - 🏡 Lives in Cairo, Egypt (🇪🇬).
 - Problem Solving Skills.
   
