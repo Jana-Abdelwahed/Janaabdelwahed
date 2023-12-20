@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Janaabdelwahed&color=dc143c&style=flat" alt="Janaabdelwahed"/>
 </p>
 
-![](https://komarev.com/ghpvc/?username=Janaabdelwahed&color=dc143c)
+
 
 </div>
 
