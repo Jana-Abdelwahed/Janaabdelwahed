@@ -1,5 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jana </h1>
 <h3 align="center">Computer Science Sophomore at Ain-Shams University</h3>
 <p align="center">
@@ -20,17 +18,21 @@
 🏡 Lives in Cairo, Egypt (🇪🇬).
 - Problem Solving Skills.
   | :-------------------------------------: |
+
   
 <h2> Languages </h2>
 
 - Arabic -> Native
 - English -> Conversational
 
+
   
   ## 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
+
 
   
 ## ⚙️ &nbsp;GitHub Analytics
