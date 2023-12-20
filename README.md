@@ -4,6 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=Janaabdelwahed&label=Profile%20views&color=0e75b6&style=flat" alt="Janaabdelwahed"/>
 </p>
 
+ <img src="https://github-readme-stats.vercel.app/api?username=Janaabdelwahed&locale=en&theme=tokyonight&show_icons=true&line_height=25&border_radius=5" width="49%" />
+</div>
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janaandelwahed&layout=compact&&title_color=FF2E63&text_color=57D1C9&bg_color=151515" width="380"/> -->
+
 ***
 
 <h2> About </h2>
