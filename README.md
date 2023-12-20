@@ -10,19 +10,19 @@
 
 ***
 
-<h2> About </h2>
+<h3> 👨🏻‍💻 About Me </h3>
   
-🎓 Sophomore at Faculty of **Computer and Information Sciences** - **Ain Shams** University, **Cairo**.  </br>
-
-🏡 Lives in Cairo, Egypt (🇪🇬).
+-🧑‍🎓 I’m studying Computer Science at Ain Shams University, **Cairo**.  </br>
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- ✍️ &nbsp; Watching Anime
+- 🏡 Lives in Cairo, Egypt (🇪🇬).
 - Problem Solving Skills.
-  | :-------------------------------------: |
-
   
-<h2> Languages </h2>
+  <h3>🛠 Tech Stack</h3>
 
-- Arabic -> Native
-- English -> Conversational
+
+- 💻 &nbsp; C++ |  Java  
+- 🔧 &nbsp; Visual Studio code |  Git
 
 
   
@@ -32,6 +32,7 @@
    <a href="https://isocpp.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
    </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+   
     
 
   
