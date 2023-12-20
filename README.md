@@ -33,14 +33,13 @@
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
 
   
-  ## 📊 My Github Stats
+## ⚙️ &nbsp;GitHub Analytics
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Janaabdelwahed&show_icons=true&theme=vision-friendly-dark" alt="leandro's stats"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janaabdelwahed&layout=compact&theme=vision-friendly-dark" alt="leandro's most languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Janaabdelwahed&show_icons=true&theme=vision-friendly-dark" alt="Jana's stats"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janaabdelwahed&layout=compact&theme=vision-friendly-dark" alt="Jana's most languages"/>
 </div>
 </div>
-
 
 <br/>
 <br/>
