@@ -1,8 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jana </h1>
-<h3 align="center">Computer Science Sophomore at Ain-Shams University</h3>
+<h3 align="center">Passionate Computer Science Sophomore at Ain-Shams University</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Janaabdelwahed&label=Profile%20views&color=0e75b6&style=flat" alt="Janaabdelwahed"/>
+  <img src="https://komarev.com/ghpvc/?username=ـJanaabdelwahed&color=dc143c&style=flat" alt="Janaabdelwahed"/>
 </p>
+
+![](https://komarev.com/ghpvc/?username=Janaabdelwahed&color=dc143c)
 
 </div>
 
