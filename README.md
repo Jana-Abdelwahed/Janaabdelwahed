@@ -38,7 +38,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Janaabdelwahed&show_icons=true&theme=vision-friendly-dark" alt="Jana's stats"/> <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janaabdelwahed&layout=compact&theme=vision-friendly-dark" alt="Jana's most languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Janaabdelwahed&show_icons=true&theme=vision-friendly-dark" alt="Jana's stats"/> 	<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janaabdelwahed&layout=compact&theme=vision-friendly-dark" alt="Jana's most languages"/>
+
 
 </div>
 </div>
