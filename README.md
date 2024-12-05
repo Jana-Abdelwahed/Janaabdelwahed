@@ -5,8 +5,9 @@
 
 <br>
 <img src="https://media.tenor.com/apGSV-Mt_bgAAAAj/tkthao219-bubududu.gif" width=250> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ff8390&size=30&lines=Hi!+It's+Jana+(✿◡‿◡);I'm+a+Computer+science+student;](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ff8390&size=30&lines=Hi!+It's+Jana+(✿◡‿◡);I'm+a+Computer+science+student;)](https://git.io/typing-svg)
 
+---
 </div>
 
 
