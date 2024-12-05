@@ -5,7 +5,7 @@
 
 <br>
 <img src="https://media.tenor.com/apGSV-Mt_bgAAAAj/tkthao219-bubududu.gif" width=250> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=ff8390&size=30&lines=Hi!+It%27s+Jana+(%E2%9C%BF%E2%97%A1%E2%80%BF%E2%97%A1);I%27m+a+Computer+science+student;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ff8390&size=30&lines=Hi!+It's+Jana+(✿◡‿◡);I'm+a+Computer+science+student;I+love+problem+solving)](https://git.io/typing-svg)
 
 ---
 </div>
