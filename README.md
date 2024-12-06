@@ -25,7 +25,7 @@
 
 
 - 💻 &nbsp; C++ |  Java  
-- 🔧 &nbsp; Visual Studio code |  Git
+- 🔧 &nbsp; Visual Studio code | Intellij 
 
 
   
