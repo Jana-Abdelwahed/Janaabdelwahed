@@ -4,7 +4,7 @@
 </p>
 
 <br>
-<img src="https://media.tenor.com/apGSV-Mt_bgAAAAj/tkthao219-bubududu.gif" width=250>
+<h1 align="center"> <img src="https://media.tenor.com/apGSV-Mt_bgAAAAj/tkthao219-bubududu.gif" width=250>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=33&letterSpacing=1px&pause=1000&color=F7687D&center=true&width=435&lines=Hello%2C+It's+Jana+(%5E-%5E);I'm+a+computer+science+student+" alt="Typing SVG" /></a>  
 
 ---
